@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "65cfd31d836ef2403f54dd41"
+  },
+  "type": "torta",
+  "name": "The Red Velvet",
+  "image": "/images/products/the-red-velvet.png",
+  "description": "Red Velvet torta je omiljeni desert poznat po svojoj prepoznatljivoj crvenoj boji i bogatom, nežnom ukusu.",
+  "price": 2500,
+  "ingredients": "kakao, margarin, šećer, jaja, brašno, mleko, crvena boja za kolače",
+  "comments": [
+    {
+      "user": "jovan.Mara",
+      "message": "Baš je ukusna torta :)"
+    },
+    {
+      "user": "tam.zivkovic_42",
+      "message": "Obožavam ovu tortu!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65cfd3c4836ef2403f54dd42"
+  },
+  "type": "torta",
+  "name": "Plava Princeza",
+  "image": "/images/products/plava-princeza.png",
+  "description": "Osvežavajuća poslastica koja mami svojom jedinstvenom kombinacijom ukusa i izgledom, čineći ovu tortu pravom poslasticom za svačiji ukus i posebne prilike.",
+  "price": 2000,
+  "ingredients": "margarin, šećer, vanila, jaja, brašno, mleko, borovnice",
+  "comments": [
+    {
+      "user": "jovanovic.sarica38",
+      "message": "Torta prelepo izgleda.",
+      "_id": {
+        "$oid": "65d2763952fce1bfe10bbf77"
+      }
+    },
+    {
+      "user": "jelenaGoranovic",
+      "message": "Sve pohvale za ovu tortu!",
+      "_id": {
+        "$oid": "65d2763952fce1bfe10bbf78"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65cfd3ed836ef2403f54dd43"
+  },
+  "type": "torta",
+  "name": "Čoko Višnjevača",
+  "image": "/images/products/čoko-višnjevača.png",
+  "description": "Osvežavajuća poslastica koja mami svojom jedinstvenom kombinacijom ukusa i izgledom, čineći ovu tortu pravom poslasticom za svačiji ukus i posebne prilike.",
+  "price": 3000,
+  "ingredients": "margarin, šećer, vanila, jaja, brašno, mleko, višnje",
+  "comments": [
+    {
+      "user": "mina.karic99",
+      "message": "Torta prelepo izgleda."
+    },
+    {
+      "user": "anacivic7",
+      "message": "Sve pohvale za ovu tortu!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65cfd418836ef2403f54dd44"
+  },
+  "type": "torta",
+  "name": "Kralj lešnika",
+  "image": "/images/products/kralj-lešnika.png",
+  "description": "Osvežavajuća poslastica koja mami svojom jedinstvenom kombinacijom ukusa i izgledom, čineći ovu tortu pravom poslasticom za svačiji ukus i posebne prilike.",
+  "price": 2700,
+  "ingredients": "nugat, šećer, čokolada, jaja, brašno, mleko, lešnik",
+  "comments": [
+    {
+      "user": "luka_22",
+      "message": "Torta prelepo izgleda."
+    },
+    {
+      "user": "oljaFilipovic",
+      "message": "Sve pohvale za ovu tortu!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65cfd431836ef2403f54dd45"
+  },
+  "type": "torta",
+  "name": "Pink Panter",
+  "image": "/images/products/pink-panter.png",
+  "description": "Osvežavajuća poslastica koja mami svojom jedinstvenom kombinacijom ukusa i izgledom, čineći ovu tortu pravom poslasticom za svačiji ukus i posebne prilike.",
+  "price": 3000,
+  "ingredients": "margarin, šećer, vanila, jaja, brašno, mleko, keks",
+  "comments": [
+    {
+      "user": "lunaxxla",
+      "message": "Torta prelepo izgleda."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65cfd47c836ef2403f54dd46"
+  },
+  "type": "torta",
+  "name": "Divlje Voće",
+  "image": "/images/products/divlje-voće.png",
+  "description": "Osvežavajuća poslastica koja mami svojom jedinstvenom kombinacijom ukusa i izgledom, čineći ovu tortu pravom poslasticom za svačiji ukus i posebne prilike.",
+  "price": 3000,
+  "ingredients": "jaja, brašno, mleko, čokolada, maline, kupine, jagode",
+  "comments": [
+    {
+      "user": "cicimici00",
+      "message": "Sve pohvale za ovu tortu!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65cfd48f836ef2403f54dd47"
+  },
+  "type": "kolac",
+  "name": "Party cups",
+  "image": "/images/products/party-cups.png",
+  "description": "Najbolji koači za sve vrste proslava. Pakovanje sadrži 10 komada.",
+  "price": 1500,
+  "ingredients": "jaja, brašno, mleko, vanila, šarene mrvice",
+  "comments": [
+    {
+      "user": "tam.zivkovic_42",
+      "message": "Svima se dopale na proslavi mature!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65cfd4c0836ef2403f54dd48"
+  },
+  "type": "kolac",
+  "name": "Čoko Malina",
+  "image": "/images/products/čoko-malina.png",
+  "description": "Savršena poslatica za vaš užitak. Pakovanje sadrži 10 komada.",
+  "price": 2000,
+  "ingredients": "jaja, brašno, mleko, maline, čokolada, čoko mrvice",
+  "comments": [
+    {
+      "user": "jovanovic.sarica38",
+      "message": "Baš su ukusni kolači."
+    },
+    {
+      "user": "jelenaGoranovic",
+      "message": "Odlične su."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65cfd4de836ef2403f54dd49"
+  },
+  "type": "kolac",
+  "name": "Black n White",
+  "image": "/images/products/black-n-white.png",
+  "description": "Savršena poslatica za vaš užitak. Pakovanje sadrži 10 komada.",
+  "price": 2000,
+  "ingredients": "margarin, vanila, jaja, brašno, mleko, čokolada, nugat",
+  "comments": [
+    {
+      "user": "mina.karic99",
+      "message": "Obožavam ove kolače."
+    },
+    {
+      "user": "anacivic7",
+      "message": "Sve pohvale za ovu poslasicu!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65cfd4ff836ef2403f54dd4a"
+  },
+  "type": "kolac",
+  "name": "Čokoladna Simfonija",
+  "image": "/images/products/čokoladna-simfonija.png",
+  "description": "Savršena poslatica za vaš užitak. Pakovanje sadrži 10 komada.",
+  "price": 2200,
+  "ingredients": "nugat, čokolada, jaja, brašno, mleko",
+  "comments": [
+    {
+      "user": "ana.jovanov77",
+      "message": "Mnogo lepo izgleda kolac"
+    },
+    {
+      "user": "luka_22",
+      "message": "Savršenstvo!"
+    },
+    {
+      "user": "oljaFilipovic",
+      "message": "Bolji kolač nisam probala."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65cfd519836ef2403f54dd4b"
+  },
+  "type": "kolac",
+  "name": "Banana Pčelica",
+  "image": "/images/products/banana-pčelica.png",
+  "description": "Savršena poslatica za vaš užitak. Pakovanje sadrži 10 komada.",
+  "price": 1800,
+  "ingredients": "banana, vanila, jaja, brašno, mleko, čokolada",
+  "comments": [
+    {
+      "user": "ana.jovanov77",
+      "message": "Neodoljiv ukus.",
+      "_id": {
+        "$oid": "65d27aed98e7971d8864c5a0"
+      }
+    },
+    {
+      "user": "lunaxxla",
+      "message": "Mnogo lep kolač.",
+      "_id": {
+        "$oid": "65d27adc98e7971d8864c59e"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65cfd537836ef2403f54dd4c"
+  },
+  "type": "kolac",
+  "name": "Limun Žut",
+  "image": "/images/products/limun-žut.png",
+  "description": "Savršena poslatica za vaš užitak. Pakovanje sadrži 10 komada.",
+  "price": 2000,
+  "ingredients": "jaja, brašno, mleko, limun, vanila, pavlaka",
+  "comments": [
+    {
+      "user": "ana.jovanov77",
+      "message": "Prelepo"
+    },
+    {
+      "user": "cicimici00",
+      "message": "Neibičan i ukusan kolač :)"
+    }
+  ]
+}]

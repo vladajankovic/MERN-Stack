@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65cfd283836ef2403f54dd3d"
+  },
+  "type": "kupac",
+  "username": "ana.jovanov77",
+  "password": "Test12345",
+  "firstname": "Ana",
+  "lastname": "Jovanov",
+  "address": "Čingrijina 12/7",
+  "phone": "0647356442"
+},
+{
+  "_id": {
+    "$oid": "65cfd296836ef2403f54dd3f"
+  },
+  "type": "admin",
+  "username": "adminKolacic3",
+  "password": "Admin12345",
+  "firstname": "Dejan",
+  "lastname": "Marković",
+  "address": "Dalmatinska 7",
+  "phone": "+381652249887"
+}]
