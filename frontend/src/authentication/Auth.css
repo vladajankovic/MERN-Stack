@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+
+.auth-back {
+    text-align: center;
+    background-image: url("../../public/images/products/27.png");
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.auth-header {
+    color: black;
+    font-size: 500%;
+    font-family: 'Italianno';
+    text-align: center;
+    
+    background-color: rgba(240, 182, 182, 0.8);
+    border-radius: 20px;
+
+    position: relative;
+    max-width: fit-content;
+    margin: auto;
+    padding: 0 50px;
+    top: 40px;
+}
+
+.form-body {
+    color: black;
+    text-align: center;
+    
+    background-color: rgba(227, 221, 78, 0.8);
+    border-radius: 20px;
+
+    position: relative;
+    
+    
+    max-width: fit-content;
+    top: 90px;
+    margin: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.form-head-font {
+    font-family: 'Cinzel';
+    font-size: 300%;
+    font-weight: lighter;
+    position: inherit;
+    margin: auto;
+}
+
+.form-font, span {
+    font-size: 150%;
+    position: inherit;
+}
+
+.form-button {
+    background-color: rgb(234, 141, 88);
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Calibri';
+    font-weight: bold;
+    font-size: 150%;
+    border-style: double;
+    border-color: rgb(238, 106, 30);
+    position: inherit;
+}
+.form-button:hover {
+    background-color: rgb(238, 106, 30);
+    border-color: black;
+}
+
+.auth-link {
+    font-weight: bold;
+    color: rgb(180, 0, 0);
+}
+
+.auth-link:hover {
+    text-decoration: underline;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 30px;
+    row-gap: 20px;
+    column-gap: 50px;
+}
+
+input {
+    box-sizing: border-box;
+    padding: 8px 10px;
+    margin-top: 2px;
+}
+
+li, ul {
+    text-align: left;
+}
